@@ -8,7 +8,7 @@
 
 **..** - Move up to the parent directory.
 
-**ls** - Lists th contents of you current working directory.
+**ls** - Lists the contents of you current working directory.
 
 **mkdir** - Creates a new directory or folder.
 
